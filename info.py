@@ -25,9 +25,9 @@ BOT_TOKEN = environ.get('BOT_TOKEN', "")
 CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
-PICS = (environ.get('PICS', 'https://graph.org/file/757070d72c171132ccb38.jpg')).split() #SAMPLE PIC
-NOR_IMG = environ.get("NOR_IMG", "https://te.legra.ph/file/a27dc8fe434e6b846b0f8.jpg")
-MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/How_To_Open_Linkl")
+PICS = (environ.get('PICS', 'https://graph.org/file/45223ad25748b1e942234.jpg')).split() #SAMPLE PIC
+NOR_IMG = environ.get("NOR_IMG", "https://graph.org/file/45223ad25748b1e942234.jpg")
+MELCOW_VID = environ.get("MELCOW_VID", "https://t.me/")
 SPELL_IMG = environ.get("SPELL_IMG", "https://te.legra.ph/file/15c1ad448dfe472a5cbb8.jpg")
 
 # Admins, Channels & Users
@@ -60,13 +60,13 @@ DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in enviro
 MAX_B_TN = environ.get("MAX_B_TN", "5")
 MAX_BTN = is_enabled((environ.get('MAX_BTN', "True")), True)
 PORT = environ.get("PORT", "8080")
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/movies_zone_support')
-CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Movies_Zone_Media')
-TUTORIAL = environ.get('TUTORIAL', 'https://t.me/How_To_Open_Link0')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/Goldmines_Officialy')
+CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/Goldmines_Officialy')
+TUTORIAL = environ.get('TUTORIAL', 'https://t.me/Goldmines_Officialy')
 IS_TUTORIAL = bool(environ.get('IS_TUTORIAL', True))
 MSG_ALRT = environ.get('MSG_ALRT', 'Hello My Dear Friends ❤️')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', ''))
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'movies_zone_support')
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'Goldmines_Officialy)
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "False")), False)
 IMDB = is_enabled((environ.get('IMDB', "True")), True)
 AUTO_FFILTER = is_enabled((environ.get('AUTO_FFILTER', "True")), True)
@@ -89,8 +89,8 @@ LANGUAGES = ["malayalam", "mal", "tamil", "tam" ,"english", "eng", "hindi", "hin
 SEASONS = ["season 1" , "season 2" , "season 3" , "season 4", "season 5" , "season 6" , "season 7" , "season 8" , "season 9" , "season 10"]
 
 
-                           # Don't Remove Credit @KrishnaTG_Botz
-                           # Ask Doubt on telegram @Krishna00P
+                           # Don't Remove Credit @
+                           # Ask Doubt on telegram @
 
 
 # Online Stream and Download
