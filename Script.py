@@ -11,9 +11,9 @@ class script(object):
 Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
     ABOUT_TXT = f"""<b>⍟───[ MY ᴅᴇᴛᴀɪʟꜱ ]───⍟
-‣ ᴍʏ ɴᴀᴍᴇ : <a href=http://t.me/Movies_Zone_Filter_Bot>𝗠𝗼𝘃𝗶𝗲𝘀 𝗭𝗼𝗻𝗲 𝗕𝗼𝘁</a>
+‣ ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Goldmines_Officialy>𝗠𝗼𝘃𝗶𝗲𝘀 𝗭𝗼𝗻𝗲 𝗕𝗼𝘁</a>
  ‣ My best friend : <a href='tg://settings'>ᴛʜɪs ᴘᴇʀsᴏɴ</a> 
- ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/{BOT_USERNAME}'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a> 
+ ‣ ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://t.me/{BOT_USERNAME}'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🔮</a> 
  ‣ ʟɪʙʀᴀʀʏ : <a href='https://docs.pyrogram.org/'>ᴘʏʀᴏɢʀᴀᴍ</a> 
  ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href='https://www.python.org/download/releases/3.0/'>ᴘʏᴛʜᴏɴ 3</a> 
  ‣ ᴅᴀᴛᴀ ʙᴀsᴇ : <a href='https://www.mongodb.com/'>ᴍᴏɴɢᴏ ᴅʙ</a> 
@@ -25,11 +25,11 @@ Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
 
 Tʜɪs Bᴏᴛ ʜᴀs Lᴀᴛᴇsᴛ ᴀɴᴅ Aᴅᴠᴀɴᴄᴇᴅ Fᴇᴀᴛᴜʀᴇs⚡️
 
-Where is source code? - <a href='https://github.com/unique-shadows/auto-filter-movies-bot'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Where is source code? - <a href='https://github.com/'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 
 
-Developer - <a href='https://t.me/uniqueshadows'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
-GitHub - <a href='https://github.com/unique-shadows'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+Developer - <a href='https://t.me/'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
+GitHub - <a href='https://github.com/'>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a></b>
 """
 
 
@@ -92,7 +92,7 @@ Cᴏᴍᴍᴀɴᴅs Aɴᴅ Usᴀɢᴇ:
 my features Stay here new features coming soon...  
  <b>✯ Maintained by : <a href=https://t.me/{BOT_USERNAME}>☢VJ☢</a></b>
   
- <b>✯ Join here : <a href=https://t.me/Movies_Zone_Media>☢Join my updateds☢</a></b> 
+ <b>✯ Join here : <a href=https://t.me/Goldmines_Officialy>☢Join my updateds☢</a></b> 
   
  ./id - <code>ɢᴇᴛ ɪᴅ ᴏꜰ ᴀ ꜱᴘᴇᴄɪꜰɪᴇᴅ ᴜꜱᴇʀ.</ 
  code> 
@@ -105,7 +105,7 @@ my features Stay here new features coming soon...
   
  ./tts - <code>This command usage text to voice converter</code> 
   
- ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/MpLaDn82FtI?si=zR5WZVXeoFtVSDBI</code>]
+ ./video - This command usage any YouTube video download hd [<code>example /video https://youtu.be/</code>]
 
 ./font - This command usage stylish and cool font generator [<code>example /font hi</code>]"""
 
@@ -216,14 +216,13 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 
 〰️〰️〰️〰️〰️〰️〰️〰️
 ╭───🔅 ᴜᴘʟᴏᴀᴅ ʙʏ 🔅 ────╮
-├• ▫️<a href=https://t.me/Movies_Zone_Media>Movies Zone Media</a>
+├• ▫️<a href=https://t.me/Goldmines_Officialy>Goldmines Officialy</a>
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️ <a href=https://t.me/Movies_Zone_Support>Request Group</a>
+👉🏻 ▫️ <a href=https://t.me/Goldmines_Officialy>Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-🧲 •  <a href=https://t.me/+znji5oxbUT1jMzNl>𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐓𝐨𝐫𝐫𝐞𝐧𝐭 𝐋𝐞𝐞𝐜𝐡 𝐆𝐫𝐨𝐮𝐩 </a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>""" 
 
     IMDB_TEMPLATE_TXT = """
@@ -689,7 +688,7 @@ Also your tutorial will be Added Your Group..."""
     DEVELOPER_TXT = f"""
 special Thanks To ❤️ Developers -
 
--Dev 1 [Owner of this bot ]<a href='https://t.me/{BOT_USERNAME}'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🇮🇳</a>
+-Dev 1 [Owner of this bot ]<a href='https://t.me/{BOT_USERNAME}'>ⁱᵗᶻ ᵐᵉ ᵗᵍ 🔮</a>
 
 -Dev 2 <a href='https://t.me/{BOT_USERNAME}'>SG</a>
 """
