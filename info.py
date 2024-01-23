@@ -102,14 +102,14 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
-FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'.herokuapp.com'
-URL = "https://manjotsidhu-5f5be5d13c53.herokuapp.com/".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://manjotsidhu-5f5be5d13c53.herokuapp.com/".format(FQDN, PORT)
+FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'manjotsidhu1-8c745768fdba.herokuapp.com'
+URL = "manjotsidhu1-8c745768fdba.herokuapp.com".format(FQDN) if ON_HEROKU or NO_PORT else \
+    "manjotsidhu1-8c745768fdba.herokuapp.com".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
 MULTI_CLIENT = False
-name = str(environ.get('name', 'LazyPrincess'))
+name = str(environ.get('name', 'manjotsidhu1'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 if 'DYNO' in environ:
     ON_HEROKU = True
@@ -119,9 +119,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://lazykrishna-b305ab75bb77.herokuapp.com/".format(FQDN)
+    URL = "manjotsidhu1-8c745768fdba.herokuapp.com".format(FQDN)
 else:
-    URL = "https://lazykrishna-b305ab75bb77.herokuapp.com/".format(FQDN)
+    URL = "manjotsidhu1-8c745768fdba.herokuapp.com".format(FQDN)
 
 
 
