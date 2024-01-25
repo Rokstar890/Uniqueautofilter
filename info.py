@@ -50,7 +50,7 @@ NO_RESULTS_MSG = bool(environ.get("NO_RESULTS_MSG", False))
 DATABASE_URI = environ.get('DATABASE_URI', "")
 DATABASE_NAME = environ.get('DATABASE_NAME', "")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
-BOT_USERNAME = environ.get('BOT_USERNAME', 'telegram')
+BOT_USERNAME = environ.get('BOT_USERNAME', 'Iron_man_AutoFilter_Reborn_Bot')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
 SHORTLINK_URL = environ.get('SHORTLINK_URL', 'easysky.in')
