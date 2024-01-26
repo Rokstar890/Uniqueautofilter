@@ -102,14 +102,14 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
-FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'https://stormy-ravine-22390-f9e3ee02c22b.herokuapp.com/'
-URL = "https://stormy-ravine-22390-f9e3ee02c22b.herokuapp.com/".format(FQDN) if ON_HEROKU or NO_PORT else \
-    "https://stormy-ravine-22390-f9e3ee02c22b.herokuapp.com/".format(FQDN, PORT)
+FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'https://manjotsidhu0-7f6cca549967.herokuapp.com/'
+URL = "https://manjotsidhu0-7f6cca549967.herokuapp.com/".format(FQDN) if ON_HEROKU or NO_PORT else \
+    "https://manjotsidhu0-7f6cca549967.herokuapp.com/".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
 WORKERS = int(environ.get('WORKERS', '4'))
 SESSION_NAME = str(environ.get('SESSION_NAME', 'LazyBot'))
 MULTI_CLIENT = False
-name = str(environ.get('name', 'Iron_man_AutoFilter_Reborn_Bot'))
+name = str(environ.get('name', 'i_manjot_sidhu'))
 PING_INTERVAL = int(environ.get("PING_INTERVAL", "1200"))  # 20 minutes
 if 'DYNO' in environ:
     ON_HEROKU = True
@@ -119,9 +119,9 @@ else:
     ON_HEROKU = False
 HAS_SSL=bool(getenv('HAS_SSL',False))
 if HAS_SSL:
-    URL = "https://stormy-ravine-22390-f9e3ee02c22b.herokuapp.com/".format(FQDN)
+    URL = "https://manjotsidhu0-7f6cca549967.herokuapp.com/".format(FQDN)
 else:
-    URL = "https://stormy-ravine-22390-f9e3ee02c22b.herokuapp.com/".format(FQDN)
+    URL = "https://manjotsidhu0-7f6cca549967.herokuapp.com/".format(FQDN)
 
 
 
