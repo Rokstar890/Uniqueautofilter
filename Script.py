@@ -220,7 +220,7 @@ Tɪᴘ: Sᴇʟᴇᴄᴛ "Lᴀɴɢᴜᴀɢᴇs" ᴏʀ "Sᴇᴀsᴏɴs" Bᴜᴛᴛ
 ╰───────────────────╯
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 🍁 ғᴏʀ ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs & sᴇʀɪᴇs
-👉🏻 ▫️ <a href=https://t.me/requstgroup1>Request Group</a>
+👉🏻 ▫️ <a href=https://t.me/netflixrequstgroup1>Request Group</a>
 〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️</b>""" 
