@@ -22,7 +22,7 @@ API_HASH = environ.get('API_HASH', '')
 BOT_TOKEN = environ.get('BOT_TOKEN', "")
 
 # Bot settings
-CACHE_TIME = int(environ.get('CACHE_TIME', 1800))
+CACHE_TIME = int(environ.get('CACHE_TIME', 300))
 USE_CAPTION_FILTER = bool(environ.get('USE_CAPTION_FILTER', True))
 
 PICS = (environ.get('PICS', 'https://graph.org/file/caed83a30221f39130cb4.jpg')).split() #SAMPLE PIC
@@ -53,8 +53,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 BOT_USERNAME = environ.get('BOT_USERNAME', 'Autofilternetflixbot')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'links4money.com')
-SHORTLINK_API = environ.get('SHORTLINK_API', '8ec10d855e10f9743886626ba9bb5cda9c7ae3e9')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantlinks.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', 'c89c6bc721edce2e868114bc6529a554c1d9412b')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
@@ -102,7 +102,7 @@ if 'DYNO' in environ:
 else:
     ON_HEROKU = False
 BIND_ADRESS = str(getenv('WEB_SERVER_BIND_ADDRESS', '0.0.0.0'))
-FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'https://manjotsidhu0-7f6cca549967.herokuapp.com/'
+FQDN = str(getenv('FQDN', BIND_ADRESS)) if not ON_HEROKU or getenv('FQDN') else APP_NAME+'https://charli-ea1ae8854f67.herokuapp.com/'
 URL = "https://charli-ea1ae8854f67.herokuapp.com".format(FQDN) if ON_HEROKU or NO_PORT else \
     "https://charli-ea1ae8854f67.herokuapp.com".format(FQDN, PORT)
 SLEEP_THRESHOLD = int(environ.get('SLEEP_THRESHOLD', '60'))
