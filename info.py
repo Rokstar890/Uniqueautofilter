@@ -53,8 +53,8 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Telegram_files')
 BOT_USERNAME = environ.get('BOT_USERNAME', 'Autofilternetflixbot')
 # Others
 VERIFY = bool(environ.get('VERIFY', False))
-SHORTLINK_URL = environ.get('SHORTLINK_URL', 'instantlinks.in')
-SHORTLINK_API = environ.get('SHORTLINK_API', 'c89c6bc721edce2e868114bc6529a554c1d9412b')
+SHORTLINK_URL = environ.get('SHORTLINK_URL', 'Linksmoney.in')
+SHORTLINK_API = environ.get('SHORTLINK_API', '9c1e1fed194419e8e912c4084cf99de0eccfb408')
 IS_SHORTLINK = bool(environ.get('IS_SHORTLINK', True))
 DELETE_CHANNELS = [int(dch) if id_pattern.search(dch) else dch for dch in environ.get('DELETE_CHANNELS', '0').split()]
 MAX_B_TN = environ.get("MAX_B_TN", "5")
